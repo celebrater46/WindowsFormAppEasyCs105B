@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+    <car id="1001" country="Japan">
+        <name>乗用車B</name>
+        <price>150</price>
+        <description>
+            7人まで乗れるで。
+            <em>家庭用</em>やで。
+        </description>
+        <img file="car1.jpg"/>
+    </car>
+    <car id="2001" country="Japan">
+        <name>トラックB</name>
+        <price>1000</price>
+        <description>
+            <em>荷物の運搬用</em>やで。
+            <em>業務用</em>やで。
+        </description>
+        <img file="car2.jpg"/>
+    </car>
+    <car id="1005" country="USA">
+        <name>オープンカーB</name>
+        <price>30000</price>
+        <description>
+            晴天時に天窓を開閉できるで。
+            <em>レジャー用</em>やで。
+        </description>
+        <img file="car3.jpg"/>
+    </car>
+
+</cars>
